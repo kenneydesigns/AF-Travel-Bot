@@ -1,0 +1,8 @@
+openai
+transformers
+sentence-transformers
+langchain
+langchain-community
+faiss-cpu
+torch
+tqdm
