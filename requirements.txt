@@ -6,3 +6,6 @@ langchain-community
 faiss-cpu
 torch
 tqdm
+pdfminer.six
+llama-index
+# Add any other dependencies you need for your project
